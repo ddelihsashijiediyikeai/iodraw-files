@@ -31,11 +31,6 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="判断终止条件" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rFYo3Iev-axFj3A9tV10-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="rFYo3Iev-axFj3A9tV10-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="406" y="190" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rFYo3Iev-axFj3A9tV10-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -62,6 +57,9 @@
         </mxCell>
         <mxCell id="rFYo3Iev-axFj3A9tV10-17" value="评估适应度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="22" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="B8sALWtRo1bCtYqW_ytu-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="346" y="202" width="120" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
