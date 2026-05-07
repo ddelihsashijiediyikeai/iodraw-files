@@ -122,7 +122,7 @@
         <mxCell id="2h0rnG8u3LmCLJUjjngL-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="186" y="446" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="nKWomJ-45v9N2dZBLY5p-1" value="去除f最小的点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="nKWomJ-45v9N2dZBLY5p-1" value="取出f最小的点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="345" y="366" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
