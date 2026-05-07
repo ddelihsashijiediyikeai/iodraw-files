@@ -133,7 +133,7 @@
         </mxCell>
         <mxCell id="a5-GNa0lBiDBmGOCwcR4-1" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GpH7D8sAmw43OvFgV1fW-3">
           <mxGeometry x="-0.1202" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hV_0ZZwEEzyr9IvOwscb-1" value="是否到达" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
